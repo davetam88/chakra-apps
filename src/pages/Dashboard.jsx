@@ -9,6 +9,7 @@ export default function Dashboard() {
     textAlign: "center",
     ":hover": {
       color: "black",
+      bg: "blue.400",
     },
     filter: "blur(2px)",
   };
