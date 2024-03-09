@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { Box, Container, Heading, Text } from "@chakra-ui/react";
 
 export default function Dashboard() {
@@ -37,4 +38,10 @@ export default function Dashboard() {
       <Box sx={boxStyles}>Hello, Ninjas!</Box>
     </Container>
   );
+=======
+export default function Dashboard() {
+  return (
+    <div>Dashboard</div>
+  )
+>>>>>>> main
 }
