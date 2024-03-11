@@ -9,11 +9,7 @@ import {
 import RootLayout from "./layouts/RootLayout";
 import Dashboard from "./pages/Dashboard";
 import Create from "./pages/Create";
-<<<<<<< HEAD
 import Profile from "./pages/Profile";
-=======
-import Profile from "../Profile";
->>>>>>> main
 
 // router and routes
 const router = createBrowserRouter(
